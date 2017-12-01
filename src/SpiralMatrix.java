@@ -1,9 +1,14 @@
 public class SpiralMatrix {
 
+    // marker for left corner
     static int leftHead = -1;
+    // marker for right corner
     static int rightHead = -1;
+    // marker for bottom corner
     static int bottomHead = -1;
+    // marker for top corner
     static int topHead = -1;
+
     static int[][] arr = {
             {1, 2, 3, 4, 5},
             {17, 18, 19, 20, 6},
@@ -13,17 +18,19 @@ public class SpiralMatrix {
 
     public static void main(String[] args) {
 
-        // set heads
+        // init heads
         topHead = -1;
         rightHead = arr.length;
         bottomHead = arr.length;
         leftHead = -1;
+
+        // starting from top-left corner
         print(0, 0, 0);
 
     }
 
     private static void print(int startX, int startY, int dir) {
-
+        // dir(directions) can be [0,1,2,3]
         int _d = dir % 4;
 
         if (_d == 0) {

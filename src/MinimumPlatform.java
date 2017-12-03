@@ -26,7 +26,7 @@ public class MinimumPlatform {
 
         p("Can stand In series :"+ (selectedCount+1));
         p("Platform Req : "+(arr.length-selectedCount));
-        
+
     }
 
     private static void p(String s) {

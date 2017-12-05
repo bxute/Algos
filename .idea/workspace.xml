@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="475173a3-23b5-489b-90f4-ef822c5d3cb6" name="Default" comment="" />
+    <list default="true" id="475173a3-23b5-489b-90f4-ef822c5d3cb6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/codality/PassingCars.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,21 +25,6 @@
                 <element signature="e#111#112#0" expanded="true" />
                 <element signature="e#670#671#0" expanded="true" />
                 <element signature="e#707#708#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HamiltonianCycle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HamiltonianCycle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1696">
-              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-              <folding>
-                <element signature="e#984#985#0" expanded="true" />
-                <element signature="e#1014#1015#0" expanded="true" />
-                <element signature="e#1411#1412#0" expanded="true" />
-                <element signature="e#1448#1449#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,7 +127,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountDiv.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CountDiv.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codality/CountDiv.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
@@ -149,6 +137,19 @@
                 <element signature="e#239#240#0" expanded="true" />
                 <element signature="e#767#768#0" expanded="true" />
                 <element signature="e#804#805#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PassingCars.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codality/PassingCars.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#969#970#0" expanded="true" />
+                <element signature="e#1006#1007#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -188,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/codality/FrogRiver.java" />
         <option value="$PROJECT_DIR$/src/codality/MaxCounters.java" />
         <option value="$PROJECT_DIR$/src/codality/CountDiv.java" />
+        <option value="$PROJECT_DIR$/src/codality/PassingCars.java" />
       </list>
     </option>
   </component>
@@ -264,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountDiv">
+  <component name="RunManager" selected="Application.PassingCars">
     <configuration name="CountDiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -336,9 +338,14 @@
       <module name="Alogs" />
       <envs />
     </configuration>
-    <configuration name="PatternMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="PatternMatch" />
+    <configuration name="PassingCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="codality.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="codality.PassingCars" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -366,19 +373,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PatternMatch" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DynamicProgramming" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FrogRiver" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MaxCounters" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CountDiv" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DynamicProgramming" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FrogRiver" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MaxCounters" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CountDiv" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PassingCars" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CountDiv" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MaxCounters" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FrogRiver" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DynamicProgramming" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PatternMatch" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PassingCars" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CountDiv" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MaxCounters" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FrogRiver" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DynamicProgramming" />
       </list>
     </recent_temporary>
   </component>
@@ -399,12 +406,12 @@
       <workItem from="1512198328793" duration="7132000" />
       <workItem from="1512275423637" duration="16988000" />
       <workItem from="1512360028150" duration="15090000" />
-      <workItem from="1512441087177" duration="18536000" />
+      <workItem from="1512441087177" duration="23150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72553000" />
+    <option name="totallyTimeSpent" value="77167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -419,7 +426,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37054265" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.004651163" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -902,6 +909,17 @@
             <element signature="e#239#240#0" expanded="true" />
             <element signature="e#767#768#0" expanded="true" />
             <element signature="e#804#805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codality/PassingCars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#969#970#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
           </folding>
         </state>
       </provider>

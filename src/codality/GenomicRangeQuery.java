@@ -2,7 +2,7 @@ package codality;
 
 public class GenomicRangeQuery {
 
-
+    // Problem Statement at  : https://codility.com/programmers/lessons/5-prefix_sums/genomic_range_query
 
     public static void main(String[] args) {
         String s = "CAGCCTA";
@@ -116,7 +116,7 @@ public class GenomicRangeQuery {
         }
         return getOperationHelper(0, length - 1, from, to, 0);
     }
-    
+
     private static void p(String s) {
         System.out.println(s);
     }

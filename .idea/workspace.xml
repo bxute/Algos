@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="475173a3-23b5-489b-90f4-ef822c5d3cb6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LiveTemplateForSegmentTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SegmentTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/codality/GenomicRangeQuery.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alogs/codality/PassingCars.class" afterPath="$PROJECT_DIR$/out/production/Alogs/codality/PassingCars.class" />
+      <change beforePath="$PROJECT_DIR$/src/LiveTemplateForSegmentTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/codality/GenomicRangeQuery.java" afterPath="$PROJECT_DIR$/src/codality/GenomicRangeQuery.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,8 +117,8 @@
       <file leaf-file-name="SegmentTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegmentTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="136" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="78" column="48" lean-forward="true" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
               <folding>
                 <element signature="method#main#0;class#SegmentTree#0" expanded="false" />
                 <element signature="method#constructSegmentTree#0;class#SegmentTree#0" expanded="false" />
@@ -133,21 +130,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LiveTemplateForSegmentTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LiveTemplateForSegmentTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GenomicRangeQuery.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/codality/GenomicRangeQuery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="118" column="4" lean-forward="false" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
+            <state relative-caret-position="128">
+              <caret line="4" column="105" lean-forward="false" selection-start-line="4" selection-start-column="105" selection-end-line="4" selection-end-column="105" />
               <folding>
                 <element signature="method#main#0;class#GenomicRangeQuery#0" expanded="false" />
                 <element signature="method#getMinimumImpactFactor#0;class#GenomicRangeQuery#0" expanded="false" />
@@ -155,8 +142,8 @@
                 <element signature="method#getOperationHelper#0;class#GenomicRangeQuery#0" expanded="false" />
                 <element signature="method#getMin#0;class#GenomicRangeQuery#0" expanded="false" />
                 <element signature="method#getOperationResult#0;class#GenomicRangeQuery#0" expanded="false" />
-                <element signature="e#3373#3374#0" expanded="true" />
-                <element signature="e#3410#3411#0" expanded="true" />
+                <element signature="e#3474#3475#0" expanded="true" />
+                <element signature="e#3511#3512#0" expanded="true" />
                 <element signature="method#printArray#0;class#GenomicRangeQuery#0" expanded="false" />
               </folding>
             </state>
@@ -241,17 +228,6 @@
             <path>
               <item name="Alogs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Alogs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alogs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alogs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alogs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alogs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codality" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -418,12 +394,12 @@
       <workItem from="1512275423637" duration="16988000" />
       <workItem from="1512360028150" duration="15090000" />
       <workItem from="1512441087177" duration="24274000" />
-      <workItem from="1512535195544" duration="17489000" />
+      <workItem from="1512535195544" duration="17571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95780000" />
+    <option name="totallyTimeSpent" value="95862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1008,10 +984,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LiveTemplateForSegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SegmentTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="136" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+        <state relative-caret-position="288">
+          <caret line="78" column="48" lean-forward="true" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
           <folding>
             <element signature="method#main#0;class#SegmentTree#0" expanded="false" />
             <element signature="method#constructSegmentTree#0;class#SegmentTree#0" expanded="false" />
@@ -1022,18 +1006,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LiveTemplateForSegmentTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codality/GenomicRangeQuery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="118" column="4" lean-forward="false" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
+        <state relative-caret-position="128">
+          <caret line="4" column="105" lean-forward="false" selection-start-line="4" selection-start-column="105" selection-end-line="4" selection-end-column="105" />
           <folding>
             <element signature="method#main#0;class#GenomicRangeQuery#0" expanded="false" />
             <element signature="method#getMinimumImpactFactor#0;class#GenomicRangeQuery#0" expanded="false" />
@@ -1041,8 +1017,8 @@
             <element signature="method#getOperationHelper#0;class#GenomicRangeQuery#0" expanded="false" />
             <element signature="method#getMin#0;class#GenomicRangeQuery#0" expanded="false" />
             <element signature="method#getOperationResult#0;class#GenomicRangeQuery#0" expanded="false" />
-            <element signature="e#3373#3374#0" expanded="true" />
-            <element signature="e#3410#3411#0" expanded="true" />
+            <element signature="e#3474#3475#0" expanded="true" />
+            <element signature="e#3511#3512#0" expanded="true" />
             <element signature="method#printArray#0;class#GenomicRangeQuery#0" expanded="false" />
           </folding>
         </state>

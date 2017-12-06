@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="475173a3-23b5-489b-90f4-ef822c5d3cb6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/codality/PassingCars.java" afterPath="$PROJECT_DIR$/src/codality/PassingCars.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LiveTemplateForSegmentTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/SegmentTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/codality/GenomicRangeQuery.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alogs/codality/PassingCars.class" afterPath="$PROJECT_DIR$/out/production/Alogs/codality/PassingCars.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,47 +33,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActivitySelection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ActivitySelection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-              <folding>
-                <element signature="e#1092#1093#0" expanded="true" />
-                <element signature="e#1129#1130#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinimumChange.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MinimumChange.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-              <folding>
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#723#724#0" expanded="true" />
-                <element signature="e#758#759#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinimumPlatform.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MinimumPlatform.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="896">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding>
-                <element signature="e#1013#1014#0" expanded="true" />
-                <element signature="e#1050#1051#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PatternMatch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PatternMatch.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,8 +50,8 @@
       <file leaf-file-name="DynamicProgramming.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DynamicProgramming.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+            <state relative-caret-position="2432">
+              <caret line="106" column="5" lean-forward="false" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
               <folding>
                 <element signature="method#prepareLookup#0;class#DynamicProgramming#0" expanded="false" />
                 <element signature="method#fibTopDown#0;class#DynamicProgramming#0" expanded="false" />
@@ -103,8 +66,8 @@
       <file leaf-file-name="FrogRiver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codality/FrogRiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+            <state relative-caret-position="1216">
+              <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
               <folding>
                 <element signature="e#1020#1021#0" expanded="true" />
                 <element signature="e#1057#1058#0" expanded="true" />
@@ -117,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/codality/MaxCounters.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#1642#1643#0" expanded="true" />
                 <element signature="e#1679#1680#0" expanded="true" />
@@ -141,14 +104,60 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PassingCars.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PassingCars.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codality/PassingCars.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="274">
-              <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+              <caret line="62" column="9" lean-forward="false" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
               <folding>
                 <element signature="e#1411#1412#0" expanded="true" />
                 <element signature="e#1448#1449#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SegmentTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SegmentTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="136" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+              <folding>
+                <element signature="method#main#0;class#SegmentTree#0" expanded="false" />
+                <element signature="method#constructSegmentTree#0;class#SegmentTree#0" expanded="false" />
+                <element signature="method#getSumHelper#0;class#SegmentTree#0" expanded="false" />
+                <element signature="method#getSum#0;class#SegmentTree#0" expanded="false" />
+                <element signature="method#printArray#0;class#SegmentTree#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LiveTemplateForSegmentTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LiveTemplateForSegmentTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="530">
+              <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenomicRangeQuery.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codality/GenomicRangeQuery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="118" column="4" lean-forward="false" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
+              <folding>
+                <element signature="method#main#0;class#GenomicRangeQuery#0" expanded="false" />
+                <element signature="method#getMinimumImpactFactor#0;class#GenomicRangeQuery#0" expanded="false" />
+                <element signature="method#constructSegmentTree#0;class#GenomicRangeQuery#0" expanded="false" />
+                <element signature="method#getOperationHelper#0;class#GenomicRangeQuery#0" expanded="false" />
+                <element signature="method#getMin#0;class#GenomicRangeQuery#0" expanded="false" />
+                <element signature="method#getOperationResult#0;class#GenomicRangeQuery#0" expanded="false" />
+                <element signature="e#3373#3374#0" expanded="true" />
+                <element signature="e#3410#3411#0" expanded="true" />
+                <element signature="method#printArray#0;class#GenomicRangeQuery#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -189,6 +198,9 @@
         <option value="$PROJECT_DIR$/src/codality/MaxCounters.java" />
         <option value="$PROJECT_DIR$/src/codality/CountDiv.java" />
         <option value="$PROJECT_DIR$/src/codality/PassingCars.java" />
+        <option value="$PROJECT_DIR$/src/SegmentTree.java" />
+        <option value="$PROJECT_DIR$/src/LiveTemplateForSegmentTree.java" />
+        <option value="$PROJECT_DIR$/src/codality/GenomicRangeQuery.java" />
       </list>
     </option>
   </component>
@@ -199,8 +211,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
@@ -220,6 +232,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,9 +258,6 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PassingCars">
+  <component name="RunManager" selected="Application.GenomicRangeQuery">
     <configuration name="CountDiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -285,28 +297,14 @@
       <module name="Alogs" />
       <envs />
     </configuration>
-    <configuration name="DynamicProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Alogs" />
-      <envs />
-    </configuration>
-    <configuration name="FrogRiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="GenomicRangeQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="codality.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="codality.FrogRiver" />
+      <option name="MAIN_CLASS_NAME" value="codality.GenomicRangeQuery" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -356,6 +354,20 @@
       <module name="Alogs" />
       <envs />
     </configuration>
+    <configuration name="SegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="SegmentTree" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Alogs" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -372,19 +384,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DynamicProgramming" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FrogRiver" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MaxCounters" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CountDiv" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PassingCars" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MaxCounters" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CountDiv" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PassingCars" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SegmentTree" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GenomicRangeQuery" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PassingCars" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CountDiv" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MaxCounters" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FrogRiver" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DynamicProgramming" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GenomicRangeQuery" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SegmentTree" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PassingCars" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CountDiv" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MaxCounters" />
       </list>
     </recent_temporary>
   </component>
@@ -405,12 +417,13 @@
       <workItem from="1512198328793" duration="7132000" />
       <workItem from="1512275423637" duration="16988000" />
       <workItem from="1512360028150" duration="15090000" />
-      <workItem from="1512441087177" duration="23636000" />
+      <workItem from="1512441087177" duration="24274000" />
+      <workItem from="1512535195544" duration="17489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77653000" />
+    <option name="totallyTimeSpent" value="95780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -425,11 +438,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16105418" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16764276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -456,6 +469,78 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/PatternMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="method#findPattern#0;class#PatternMatch#0" expanded="false" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2432">
+          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+          <folding>
+            <element signature="method#prepareLookup#0;class#DynamicProgramming#0" expanded="false" />
+            <element signature="method#fibTopDown#0;class#DynamicProgramming#0" expanded="false" />
+            <element signature="e#911#945#0" expanded="false" />
+            <element signature="method#fibBottomTop#0;class#DynamicProgramming#0" expanded="false" />
+            <element signature="e#2253#2297#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codality/FrogRiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding>
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codality/MaxCounters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1642#1643#0" expanded="true" />
+            <element signature="e#1679#1680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codality/CountDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="91" lean-forward="false" selection-start-line="3" selection-start-column="91" selection-end-line="3" selection-end-column="91" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codality/PassingCars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1984">
+          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding>
+            <element signature="e#1411#1412#0" expanded="true" />
+            <element signature="e#1448#1449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/StringPermutate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -482,8 +567,8 @@
         <state relative-caret-position="3040">
           <caret line="95" column="16" lean-forward="false" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
           <folding>
-            <element signature="e#2608#2609#0" expanded="true" />
-            <element signature="e#2645#2646#0" expanded="true" />
+            <element signature="e#2608#2609#0" expanded="false" />
+            <element signature="e#2645#2646#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -493,10 +578,10 @@
         <state relative-caret-position="1696">
           <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1411#1412#0" expanded="true" />
-            <element signature="e#1448#1449#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="false" />
+            <element signature="e#1014#1015#0" expanded="false" />
+            <element signature="e#1411#1412#0" expanded="false" />
+            <element signature="e#1448#1449#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -506,8 +591,8 @@
         <state relative-caret-position="960">
           <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
-            <element signature="e#1092#1093#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="false" />
+            <element signature="e#1129#1130#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -517,10 +602,10 @@
         <state relative-caret-position="416">
           <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="false" />
+            <element signature="e#350#351#0" expanded="false" />
+            <element signature="e#723#724#0" expanded="false" />
+            <element signature="e#758#759#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -530,8 +615,8 @@
         <state relative-caret-position="896">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
-            <element signature="e#1013#1014#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="false" />
+            <element signature="e#1050#1051#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -596,8 +681,8 @@
         <state relative-caret-position="3040">
           <caret line="95" column="16" lean-forward="false" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
           <folding>
-            <element signature="e#2608#2609#0" expanded="true" />
-            <element signature="e#2645#2646#0" expanded="true" />
+            <element signature="e#2608#2609#0" expanded="false" />
+            <element signature="e#2645#2646#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -607,10 +692,10 @@
         <state relative-caret-position="1760">
           <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1411#1412#0" expanded="true" />
-            <element signature="e#1448#1449#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="false" />
+            <element signature="e#1014#1015#0" expanded="false" />
+            <element signature="e#1411#1412#0" expanded="false" />
+            <element signature="e#1448#1449#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -620,8 +705,8 @@
         <state relative-caret-position="960">
           <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
-            <element signature="e#1092#1093#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="false" />
+            <element signature="e#1129#1130#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -631,10 +716,10 @@
         <state relative-caret-position="480">
           <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="false" />
+            <element signature="e#350#351#0" expanded="false" />
+            <element signature="e#723#724#0" expanded="false" />
+            <element signature="e#758#759#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -644,8 +729,8 @@
         <state relative-caret-position="896">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
-            <element signature="e#1013#1014#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="false" />
+            <element signature="e#1050#1051#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -696,8 +781,8 @@
         <state relative-caret-position="3040">
           <caret line="95" column="16" lean-forward="false" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
           <folding>
-            <element signature="e#2608#2609#0" expanded="true" />
-            <element signature="e#2645#2646#0" expanded="true" />
+            <element signature="e#2608#2609#0" expanded="false" />
+            <element signature="e#2645#2646#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -715,10 +800,10 @@
         <state relative-caret-position="1824">
           <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
           <folding>
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1411#1412#0" expanded="true" />
-            <element signature="e#1448#1449#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="false" />
+            <element signature="e#1014#1015#0" expanded="false" />
+            <element signature="e#1411#1412#0" expanded="false" />
+            <element signature="e#1448#1449#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -757,8 +842,8 @@
         <state relative-caret-position="3040">
           <caret line="95" column="16" lean-forward="true" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
           <folding>
-            <element signature="e#2608#2609#0" expanded="true" />
-            <element signature="e#2645#2646#0" expanded="true" />
+            <element signature="e#2608#2609#0" expanded="false" />
+            <element signature="e#2645#2646#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -784,8 +869,8 @@
         <state relative-caret-position="3040">
           <caret line="95" column="16" lean-forward="false" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
           <folding>
-            <element signature="e#2608#2609#0" expanded="true" />
-            <element signature="e#2645#2646#0" expanded="true" />
+            <element signature="e#2608#2609#0" expanded="false" />
+            <element signature="e#2645#2646#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -795,10 +880,10 @@
         <state relative-caret-position="1696">
           <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1411#1412#0" expanded="true" />
-            <element signature="e#1448#1449#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="false" />
+            <element signature="e#1014#1015#0" expanded="false" />
+            <element signature="e#1411#1412#0" expanded="false" />
+            <element signature="e#1448#1449#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -808,8 +893,8 @@
         <state relative-caret-position="960">
           <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
-            <element signature="e#1092#1093#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="false" />
+            <element signature="e#1129#1130#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -819,10 +904,10 @@
         <state relative-caret-position="416">
           <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="false" />
+            <element signature="e#350#351#0" expanded="false" />
+            <element signature="e#723#724#0" expanded="false" />
+            <element signature="e#758#759#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -832,8 +917,8 @@
         <state relative-caret-position="896">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
-            <element signature="e#1013#1014#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="false" />
+            <element signature="e#1050#1051#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -865,8 +950,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DynamicProgramming.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+        <state relative-caret-position="2432">
+          <caret line="106" column="5" lean-forward="false" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
           <folding>
             <element signature="method#prepareLookup#0;class#DynamicProgramming#0" expanded="false" />
             <element signature="method#fibTopDown#0;class#DynamicProgramming#0" expanded="false" />
@@ -879,8 +964,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codality/FrogRiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        <state relative-caret-position="1216">
+          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
           <folding>
             <element signature="e#1020#1021#0" expanded="true" />
             <element signature="e#1057#1058#0" expanded="true" />
@@ -891,7 +976,7 @@
     <entry file="file://$PROJECT_DIR$/src/codality/MaxCounters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#1642#1643#0" expanded="true" />
             <element signature="e#1679#1680#0" expanded="true" />
@@ -915,10 +1000,50 @@
     <entry file="file://$PROJECT_DIR$/src/codality/PassingCars.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
-          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <caret line="62" column="9" lean-forward="false" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
           <folding>
             <element signature="e#1411#1412#0" expanded="true" />
             <element signature="e#1448#1449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="136" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding>
+            <element signature="method#main#0;class#SegmentTree#0" expanded="false" />
+            <element signature="method#constructSegmentTree#0;class#SegmentTree#0" expanded="false" />
+            <element signature="method#getSumHelper#0;class#SegmentTree#0" expanded="false" />
+            <element signature="method#getSum#0;class#SegmentTree#0" expanded="false" />
+            <element signature="method#printArray#0;class#SegmentTree#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LiveTemplateForSegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codality/GenomicRangeQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="118" column="4" lean-forward="false" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
+          <folding>
+            <element signature="method#main#0;class#GenomicRangeQuery#0" expanded="false" />
+            <element signature="method#getMinimumImpactFactor#0;class#GenomicRangeQuery#0" expanded="false" />
+            <element signature="method#constructSegmentTree#0;class#GenomicRangeQuery#0" expanded="false" />
+            <element signature="method#getOperationHelper#0;class#GenomicRangeQuery#0" expanded="false" />
+            <element signature="method#getMin#0;class#GenomicRangeQuery#0" expanded="false" />
+            <element signature="method#getOperationResult#0;class#GenomicRangeQuery#0" expanded="false" />
+            <element signature="e#3373#3374#0" expanded="true" />
+            <element signature="e#3410#3411#0" expanded="true" />
+            <element signature="method#printArray#0;class#GenomicRangeQuery#0" expanded="false" />
           </folding>
         </state>
       </provider>

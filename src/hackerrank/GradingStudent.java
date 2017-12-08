@@ -1,5 +1,7 @@
 package hackerrank;
 
+// Problem statement at : https://www.hackerrank.com/challenges/grading/problem
+
 public class GradingStudent {
 
     private static int[] getGrades(int[] grades){

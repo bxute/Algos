@@ -1,5 +1,19 @@
 public class SegmentTree {
 
+    /*
+    *   Segment Tree:
+    *   A Tree Data Structure used to store Information of an Interval.
+    *   Information can be:
+    *    - Sum Of an Interval
+    *    - Max/Min of an Interval
+    *    - Avg. Of an Interval
+    *    - Product of an Interval etc.
+    *
+    *    Given the range we can calculate these efficiently.
+    *    Without Range we can`t calculate them.
+    *
+    * */
+
     static int maxNodes;
     static int[] segmentTree;
 

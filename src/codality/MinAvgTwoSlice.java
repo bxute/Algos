@@ -1,54 +1,35 @@
 package codality;
 
-public class GenomicRangeQuery {
+public class MinAvgTwoSlice {
+
+    private static int av1;
+    private static int av2;
 
     // Problem Statement at  : https://codility.com/programmers/lessons/5-prefix_sums/genomic_range_query
 
     public static void main(String[] args) {
-        String s = "CAGCCTA";
-        int[] P = {2,5,0};
-        int[] Q = {4,5,6};
+        int[] P = {4, 2, 2, 5, 1, 5, 8};
 
-        p("Max of Them :");
-        printArray(getMinimumImpactFactor(s,P,Q));
+        p("Average :" + getMinimumAvg(P));
+
     }
 
     static int[] segmentTree;
+    static int minAvg = 99999999;
+    static int index = -1;
 
-    private static int[] getMinimumImpactFactor(String S, int[] P, int[] Q){
+    private static int getMinimumAvg(int[] P) {
 
-        int[] result = new int[Q.length];
-        int len = S.length();
-        int[] A = new int[len];
-
-        for(int i = 0;i<len;i++){
-            switch (S.charAt(i)){
-                case 'A':
-                    A[i] = 1;
-                    break;
-                case 'C':
-                    A[i] = 2;
-                    break;
-                case 'G':
-                    A[i] = 3;
-                    break;
-                case 'T':
-                    A[i] = 4;
-                    break;
-            }
-        }
+        int len = P.length;
         // calculate height for calculation of max size
         int height = (int) Math.ceil(Math.log(len) / Math.log(2));
         int maxNodes = (int) (2 * Math.pow(2, height) - 1);
         segmentTree = new int[maxNodes];
 
-        constructSegmentTree(A, 0, A.length - 1, 0);
+        constructSegmentTree(P, 0, len - 1, 0);
 
-        for(int i = 0;i<P.length;i++){
-            result[i] = getOperationResult(len,P[i],Q[i]);
-        }
+        return getOperationResult(len, 0, len - 1);
 
-        return result;
     }
 
     private static int constructSegmentTree(int[] arr, int startIndex, int endIndex, int storeResultAtIndex) {
@@ -63,11 +44,12 @@ public class GenomicRangeQuery {
         int locationForFirstPart = 2 * storeResultAtIndex + 1;
         int locationForSecondPart = 2 * storeResultAtIndex + 2;
 
-        // Store minimum of both
-        segmentTree[storeResultAtIndex] = getMin(
-                constructSegmentTree(arr, startIndex, mid, locationForFirstPart),
-                constructSegmentTree(arr, mid + 1, endIndex, locationForSecondPart)
-        );
+        // Store average of both
+        segmentTree[storeResultAtIndex] =
+                constructSegmentTree(arr, startIndex, mid, locationForFirstPart)
+                +
+                constructSegmentTree(arr, mid + 1, endIndex, locationForSecondPart);
+
 
         printArray(segmentTree);
         return segmentTree[storeResultAtIndex];
@@ -96,16 +78,16 @@ public class GenomicRangeQuery {
 
     }
 
-    private static int getMin(int a, int b){
+    private static int getMin(int a, int b) {
 
-        if(a==0)
+        if (a == 0)
             return b;
-        if(b==0)
+        if (b == 0)
             return a;
 
-        if(a>b){
+        if (a > b) {
             return b;
-        }else{
+        } else {
             return a;
         }
 
